@@ -1,117 +1,132 @@
+# Leste Chocoy
 
-<h1 align="center">Leste Chocoy</h1>
-
-<h3 align="center">
-  Desarrollador de Software Full Stack | Ingeniería en Sistemas
-</h3>
+### Desarrollador de Software Full Stack | Ingeniería en Sistemas
 
 <p align="center">
-  Desarrollo de Software · Arquitectura de Sistemas · Infraestructura Tecnológica
+  Desarrollo de software · Arquitectura de sistemas · Soluciones empresariales
 </p>
 
 <p align="center">
   <a href="https://github.com/Lestechocoy">
-    <img src="https://img.shields.io/badge/GitHub-Lestechocoy-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Lestechocoy-181717?style=flat-square&logo=github" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=Lestechocoy&style=for-the-badge&color=0A66C2&label=VISITAS" />
+  <img src="https://img.shields.io/badge/Ubicación-Guatemala-0A66C2?style=flat-square" />
 </p>
 
 ---
 
-## 👨‍💻 Perfil Profesional
+## Perfil profesional
 
-Estudiante de **Ingeniería en Sistemas de Información y Ciencias de la Computación** en la Universidad Mariano Gálvez de Guatemala, con interés en la ingeniería de software, arquitectura de sistemas y desarrollo de soluciones tecnológicas.
+Estudiante de **Ingeniería en Sistemas de Información y Ciencias de la Computación** en la Universidad Mariano Gálvez de Guatemala, orientado al diseño, desarrollo e implementación de soluciones de software.
 
-Me especializo en el diseño y desarrollo de aplicaciones web, sistemas empresariales y plataformas de gestión, integrando tecnologías modernas para construir soluciones funcionales, escalables y orientadas a las necesidades reales de las organizaciones.
+Mi enfoque está en la construcción de aplicaciones web, sistemas empresariales y plataformas de gestión, aplicando principios de arquitectura de software, separación de responsabilidades y diseño de bases de datos.
 
-Complemento mi formación académica con experiencia práctica en administración de bases de datos, infraestructura informática, gestión de redes y soporte técnico.
+Complemento el desarrollo de software con conocimientos en administración de servidores, infraestructura tecnológica, redes y gestión de sistemas informáticos.
 
-- 🇬🇹 Ubicación: Guatemala.
-- 🎓 Formación: Ingeniería en Sistemas de Información y Ciencias de la Computación.
-- 💻 Enfoque: Desarrollo Full Stack y arquitectura de software.
-- 🏗️ Intereses: Sistemas empresariales, plataformas SaaS y automatización de procesos.
+Me interesa desarrollar soluciones que respondan a necesidades reales, priorizando la funcionalidad, mantenibilidad, seguridad y escalabilidad.
 
 ---
 
-## ⚙️ Tecnologías y herramientas
+## Tecnologías y herramientas
 
-### Desarrollo Frontend
+**Frontend**
+
 <p>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
 </p>
 
-### Desarrollo Backend
+**Backend**
+
 <p>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
-### Bases de datos
+**Bases de datos**
+
 <p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
 </p>
 
-### Sistemas e infraestructura
+**Sistemas e infraestructura**
+
 <p>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=flat-square&logo=virtualbox&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Proyectos y soluciones tecnológicas
+## Proyectos destacados
 
-### 🏢 Tecnoxum — Servicios tecnológicos y desarrollo de software
+### 01. Tecnoxum — Plataforma de servicios tecnológicos
 
-Plataforma corporativa orientada a ofrecer servicios tecnológicos, desarrollo de software a medida y soluciones informáticas para empresas y profesionales.
+Plataforma corporativa enfocada en el desarrollo de software, soluciones empresariales y servicios tecnológicos.
 
-🌐 [www.tecnoxum.com](https://www.tecnoxum.com)
+- Sitio web corporativo y presentación de servicios.
+- Orientación a soluciones tecnológicas para empresas y profesionales.
 
-### 📦 Tecnoxum App — Sistema de gestión comercial
+**Sitio web:** [tecnoxum.com](https://www.tecnoxum.com)
 
-Plataforma SaaS multitenant para la administración de negocios, con funcionalidades de gestión de inventarios, ventas e impresión de tiques térmicos.
+### 02. Tecnoxum App — Sistema de gestión comercial
+
+Plataforma de gestión comercial bajo un modelo SaaS multitenant, orientada a la administración y operación de negocios.
+
+- Gestión de productos e inventarios.
+- Procesamiento y registro de ventas.
+- Generación e impresión de tiques térmicos.
+- Arquitectura frontend y backend desacoplada.
 
 **Tecnologías:** Angular · Laravel · API REST · MySQL · Tailwind CSS.
 
-🌐 [app.tecnoxum.com](https://app.tecnoxum.com)
+**Plataforma:** [app.tecnoxum.com](https://app.tecnoxum.com)
 
-### 🛒 POS Demo — Sistema de punto de venta
+### 03. POS Demo — Sistema de punto de venta
 
-Entorno de demostración interactivo para explorar los procesos de venta, gestión de productos y experiencia de usuario de un sistema comercial.
+Entorno de demostración de un sistema comercial, diseñado para presentar los principales procesos de venta y administración de productos.
 
-🌐 [demo.lestechocoy.com](https://demo.lestechocoy.com)
+- Interfaz de punto de venta.
+- Gestión de productos.
+- Flujo de operaciones comerciales.
 
-### 🎓 Sistema de Gestión Académica
+**Demostración:** [demo.lestechocoy.com](https://demo.lestechocoy.com)
 
-Plataforma orientada a la administración de centros educativos, integrando módulos de estudiantes, calificaciones, tareas y control de asistencia.
+### 04. Sistema de Gestión Académica
+
+Proyecto orientado a la digitalización de procesos administrativos y académicos de centros educativos.
+
+- Administración de estudiantes.
+- Gestión de calificaciones.
+- Control de asistencia.
+- Administración de tareas y actividades académicas.
 
 **Tecnologías:** Angular · Laravel Sanctum · MariaDB.
 
-🌐 [estudiantes.lestechocoy.com](https://estudiantes.lestechocoy.com)
+**Plataforma:** [estudiantes.lestechocoy.com](https://estudiantes.lestechocoy.com)
 
 ---
 
-## 🛠️ Áreas de especialización
+## Áreas de conocimiento
 
-- **Desarrollo frontend:** Aplicaciones web SPA, Angular, componentes independientes, formularios reactivos y diseño de interfaces.
-- **Desarrollo backend:** Arquitectura de servicios, APIs RESTful, Laravel, PHP y mecanismos de autenticación.
-- **Arquitectura de software:** Diseño de sistemas empresariales, separación de responsabilidades y aplicaciones multitenant.
-- **Administración de bases de datos:** Modelado relacional, consultas SQL, integridad de datos y optimización.
-- **Infraestructura tecnológica:** Administración de servidores Windows y Linux, virtualización, redes y mantenimiento de equipos.
-- **Automatización:** Desarrollo de herramientas y utilidades mediante Python y C++.
+- **Ingeniería de software:** análisis, diseño y desarrollo de aplicaciones.
+- **Arquitectura de sistemas:** aplicaciones modulares, APIs REST y arquitectura multitenant.
+- **Desarrollo web:** interfaces SPA, integración frontend-backend y diseño de componentes.
+- **Bases de datos:** modelado relacional, consultas SQL e integridad de datos.
+- **Infraestructura:** administración de entornos Linux y Windows, redes y virtualización.
+- **Automatización:** desarrollo de herramientas y utilidades con Python y C++.
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Lestechocoy&show_icons=true&theme=tokyonight&hide_border=true&locale=es" />
@@ -120,20 +135,20 @@ Plataforma orientada a la administración de centros educativos, integrando mód
 
 ---
 
-## 📫 Contacto y presencia profesional
+## Contacto y presencia profesional
 
 <p align="center">
   <a href="https://github.com/Lestechocoy">
-    <img src="https://img.shields.io/badge/GitHub-Perfil_Profesional-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://www.lestechocoy.com">
-    <img src="https://img.shields.io/badge/Portafolio-Web-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portafolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.tecnoxum.com">
-    <img src="https://img.shields.io/badge/Tecnoxum-Sitio_Oficial-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tecnoxum-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <i>Desarrollando soluciones tecnológicas que transforman ideas en sistemas funcionales.</i>
+  <i>Diseñando y desarrollando soluciones tecnológicas para resolver problemas reales.</i>
 </p>
