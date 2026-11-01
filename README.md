@@ -7,7 +7,7 @@
 Soy un apasionado de la tecnología, el desarrollo de software y la infraestructura informática. Actualmente curso la carrera de **Ingeniería en Sistemas de Información y Ciencias de la Computación** en la Universidad Mariano Gálvez. Combino mi formación académica con la experiencia práctica en el desarrollo de aplicaciones web, administración de redes, soporte técnico y docencia en computación.
 
 - 🌍 Resido en **Guatemala**.
-- 🚀 Me encanta construir soluciones eficientes, desde sistemas de gestión web hasta herramientas de automatización.
+- 🚀 Me enfoco en construir soluciones eficientes, escalables y orientadas a la resolución de problemas reales mediante software e infraestructura.
 
 ---
 
@@ -28,11 +28,31 @@ Soy un apasionado de la tecnología, el desarrollo de software y la infraestruct
 
 ---
 
-### 📂 Áreas de Experiencia
-* **Desarrollo Web Full Stack:** Creación de plataformas con Angular, Laravel, PHP, Bootstrap y Tailwind CSS.
-* **Bases de Datos:** Administración y modelado en MySQL, MariaDB y Oracle Database.
-* **Sistemas y Redes:** Configuración en entornos Windows Server y Linux, gestión de laboratorios informáticos y virtualización con VirtualBox/Docker.
-* **Automatización y Escritorio:** Desarrollo de scripts y aplicaciones en Python y C++ / C#.
+### 🌐 Plataformas y Proyectos en Producción
+
+#### 🏢 Tecnoxum (Sitio Oficial)
+* **Descripción:** Portal corporativo y vitrina de soluciones tecnológicas orientadas al desarrollo de software y servicios informáticos.
+* **Stack:** Arquitectura web moderna y optimizada.
+* <a href="https://www.tecnoxum.com" target="_blank"><img src="https://img.shields.io/badge/Visitar_Sitio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visitar Tecnoxum" /></a>
+
+#### 📦 Tecnoxum Inventory (Sistema POS y Control de Inventario)
+* **Descripción:** Sistema multitenant de punto de venta y control de inventarios diseñado para la administración comercial y generación de tiques térmicos.
+* **Stack:** Angular, Laravel REST API, MySQL, Tailwind CSS.
+* <a href="https://app.tecnoxum.com" target="_blank"><img src="https://img.shields.io/badge/Abrir_App-2496ED?style=for-the-badge&logo=appveyor&logoColor=white" alt="Abrir App" /></a>
+* <a href="https://demo.lestechocoy.com" target="_blank"><img src="https://img.shields.io/badge/Ver_Demo_POS-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo POS" /></a>
+
+#### 🎓 Sistema de Control de Estudiantes y Calificaciones
+* **Descripción:** Plataforma web integral para la gestión académica, control de asistencia, registro de notas y asignación de tareas escolares.
+* **Stack:** Angular (Standalone Components & Signals), Laravel Sanctum, MariaDB.
+* <a href="https://estudiantes.lestechocoy.com" target="_blank"><img src="https://img.shields.io/badge/Acceso_Sistema-7C3AED?style=for-the-badge&logo=educative&logoColor=white" alt="Acceso Estudiantes" /></a>
+
+---
+
+### 📂 Áreas de Experiencia e Infraestructura
+* **Desarrollo Web Full Stack:** Creación de plataformas robustas con Angular, Laravel, PHP y Tailwind CSS.
+* **Bases de Datos:** Administración, diseño y modelado en MySQL, MariaDB y Oracle Database.
+* **Sistemas y Redes:** Configuración en entornos Windows Server y Linux, gestión avanzada de laboratorios informáticos y virtualización.
+* **Automatización y Escritorio:** Desarrollo de utilidades y scripts en Python y C++ / C#.
 
 ---
 
@@ -44,4 +64,5 @@ Soy un apasionado de la tecnología, el desarrollo de software y la infraestruct
 ---
 
 ### 📫 ¿Conectamos?
-* 💻 Explora mis repositorios para ver los proyectos en los que he estado trabajando.
+* 🌐 **Sitio Web Personal:** [www.lestechocoy.com](https://www.lestechocoy.com)
+* 💻 Explora mis repositorios públicos para ver código fuente y otras utilidades.
