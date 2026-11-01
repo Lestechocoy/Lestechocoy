@@ -1,13 +1,13 @@
 <h1 align="center">¡Hola, un gusto saludarte! 👋 Soy Leste Chocoy</h1>
-<h3 align="center">Estudiante de Ingeniería en Sistemas | Desarrollador Web y Administrador de Sistemas</h3>
+<h3 align="center">Estudiante de Ingeniería en Sistemas | Full Stack Developer & Systems Administrator</h3>
 
 <br>
 
 ### 👨‍💻 Sobre mí
-Soy un apasionado de la tecnología, el desarrollo de software y la infraestructura informática. Actualmente curso la carrera de **Ingeniería en Sistemas de Información y Ciencias de la Computación** en la Universidad Mariano Gálvez. Combino mi formación académica con la experiencia práctica en el desarrollo de aplicaciones web, administración de redes, soporte técnico y docencia en computación.
+Soy un apasionado del desarrollo de software, la arquitectura de sistemas y la infraestructura informática. Actualmente curso la carrera de **Ingeniería en Sistemas de Información y Ciencias de la Computación** en la Universidad Mariano Gálvez. Combino la formación académica con la práctica profesional desarrollando soluciones web escalables, administrando bases de datos y gestionando infraestructura de red y laboratorios de cómputo.
 
 - 🌍 Resido en **Guatemala**.
-- 🚀 Me enfoco en construir soluciones eficientes, escalables y orientadas a la resolución de problemas reales mediante software e infraestructura.
+- 🚀 Especializado en desarrollo web full stack (Angular + Laravel), optimización de bases de datos y automatización de procesos.
 
 ---
 
@@ -20,6 +20,7 @@ Soy un apasionado de la tecnología, el desarrollo de software y la infraestruct
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -28,31 +29,35 @@ Soy un apasionado de la tecnología, el desarrollo de software y la infraestruct
 
 ---
 
-### 🌐 Plataformas y Proyectos en Producción
+### 🌐 Ecosistema Tecnológico & Proyectos en Producción
 
-#### 🏢 Tecnoxum (Sitio Oficial)
-* **Descripción:** Portal corporativo y vitrina de soluciones tecnológicas orientadas al desarrollo de software y servicios informáticos.
-* **Stack:** Arquitectura web moderna y optimizada.
-* <a href="https://www.tecnoxum.com" target="_blank"><img src="https://img.shields.io/badge/Visitar_Sitio-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visitar Tecnoxum" /></a>
+#### 🏢 Tecnoxum — Servicios Tecnológicos & Software
+* **Portal Corporativo:** Vitrina principal de servicios IT, desarrollo de software a medida y soluciones tecnológicas.
+* <a href="https://www.tecnoxum.com" target="_blank"><img src="https://img.shields.io/badge/Sitio_Oficial-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Sitio Tecnoxum" /></a>
 
-#### 📦 Tecnoxum Inventory (Sistema POS y Control de Inventario)
-* **Descripción:** Sistema multitenant de punto de venta y control de inventarios diseñado para la administración comercial y generación de tiques térmicos.
+#### 📦 Tecnoxum App — Plataforma de Gestión Comercia
+* **Aplicación Core:** Sistema SaaS multitenant para control de inventarios, gestión de ventas e integración con impresión de tiques térmicos.
 * **Stack:** Angular, Laravel REST API, MySQL, Tailwind CSS.
-* <a href="https://app.tecnoxum.com" target="_blank"><img src="https://img.shields.io/badge/Abrir_App-2496ED?style=for-the-badge&logo=appveyor&logoColor=white" alt="Abrir App" /></a>
-* <a href="https://demo.lestechocoy.com" target="_blank"><img src="https://img.shields.io/badge/Ver_Demo_POS-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo POS" /></a>
+* <a href="https://app.tecnoxum.com" target="_blank"><img src="https://img.shields.io/badge/Acceso_Plataforma-2496ED?style=for-the-badge&logo=appveyor&logoColor=white" alt="Tecnoxum App" /></a>
 
-#### 🎓 Sistema de Control de Estudiantes y Calificaciones
-* **Descripción:** Plataforma web integral para la gestión académica, control de asistencia, registro de notas y asignación de tareas escolares.
+#### 🛒 Demo POS — Demostración de Punto de Venta
+* **Entorno Demo:** Versión interactiva orientada a pruebas de interfaz y flujo transaccional de ventas en tiempo real.
+* <a href="https://demo.lestechocoy.com" target="_blank"><img src="https://img.shields.io/badge/Probar_Demo_POS-10B981?style=for-the-badge&logo=vercel&logoColor=white" alt="Demo POS" /></a>
+
+#### 🎓 Sistema de Control Escolar y Gestión Académica
+* **Plataforma Educativa:** Control integral de alumnos, registro de notas, asignación de tareas escolares y control de asistencia.
 * **Stack:** Angular (Standalone Components & Signals), Laravel Sanctum, MariaDB.
 * <a href="https://estudiantes.lestechocoy.com" target="_blank"><img src="https://img.shields.io/badge/Acceso_Sistema-7C3AED?style=for-the-badge&logo=educative&logoColor=white" alt="Acceso Estudiantes" /></a>
 
 ---
 
-### 📂 Áreas de Experiencia e Infraestructura
-* **Desarrollo Web Full Stack:** Creación de plataformas robustas con Angular, Laravel, PHP y Tailwind CSS.
-* **Bases de Datos:** Administración, diseño y modelado en MySQL, MariaDB y Oracle Database.
-* **Sistemas y Redes:** Configuración en entornos Windows Server y Linux, gestión avanzada de laboratorios informáticos y virtualización.
-* **Automatización y Escritorio:** Desarrollo de utilidades y scripts en Python y C++ / C#.
+### 🛠️ Competencias de Ingeniería & Experiencia Técnica
+
+* **Desarrollo Frontend:** Construcción de SPA (Single Page Applications) reactivas utilizando **Angular**, **Signals**, componentes independientes (*Standalone Components*), **Reactive Forms** y estilos optimizados con **Tailwind CSS** y **Bootstrap**.
+* **Desarrollo Backend & APIs:** Diseño e implementación de **APIs RESTful** robustas con **Laravel** y **PHP**, autenticación segura con **Laravel Sanctum** y arquitectura limpia.
+* **Bases de Datos:** Diseños relacionales, modelado y optimización de consultas en **MySQL**, **MariaDB** y **Oracle Database**.
+* **Infraestructura & Administración de Sistemas:** Configuración de servidores **Windows Server** y **Linux (Ubuntu)**, virtualización (**Docker**, **VirtualBox**), gestión de laboratorios informáticos y soporte de hardware/redes.
+* **Automatización & Scripting:** Desarrollo de utilidades de escritorio y scripts de automatización en **Python** y **C++**.
 
 ---
 
@@ -63,6 +68,6 @@ Soy un apasionado de la tecnología, el desarrollo de software y la infraestruct
 
 ---
 
-### 📫 ¿Conectamos?
+### 📫 Contacto & Portafolio Web
 * 🌐 **Sitio Web Personal:** [www.lestechocoy.com](https://www.lestechocoy.com)
-* 💻 Explora mis repositorios públicos para ver código fuente y otras utilidades.
+* 💼 **GitHub:** [@Lestechocoy](https://github.com/Lestechocoy)
