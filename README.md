@@ -136,17 +136,32 @@ Proyecto orientado a la digitalización de procesos administrativos y académico
 
 ---
 
-## Contacto y presencia profesional
+## 📫 Contacto y presencia profesional
+
+<p align="center">
+  <a href="mailto:lestechocoy7@gmail.com">
+    <img src="https://img.shields.io/badge/Correo-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://wa.me/50240370279">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://t.me/lestechocoy">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="tel:+50245358610">
+    <img src="https://img.shields.io/badge/Teléfono-0078D4?style=for-the-badge&logo=phone&logoColor=white" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Lestechocoy">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Perfil_Profesional-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.lestechocoy.com">
-    <img src="https://img.shields.io/badge/Portafolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portafolio-Web-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://www.tecnoxum.com">
-    <img src="https://img.shields.io/badge/Tecnoxum-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Tecnoxum-Sitio_Oficial-111827?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </p>
 
